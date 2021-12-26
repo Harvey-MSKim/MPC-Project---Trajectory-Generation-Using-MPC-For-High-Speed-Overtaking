@@ -1,0 +1,2 @@
+# MPC-Project---Trajectory-Generation-Using-MPC-For-High-Speed-Overtaking
+In this study model predictive control is applied to a vehicle overtaking slower moving vehicles in a one way, two lane road. A risk map is defined considering the road boundaries, the center of the two lanes, and distance relative to other vehicles. The results of this study found that the vehicle was able to conduct safe lane changes while avoiding unsafe regions defined by the risk map
